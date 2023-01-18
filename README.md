@@ -1,18 +1,4 @@
 ## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+This program was made to reformat icons from a 32 x 64 formatting into a 64 x 128.
+It also got rid of the green backgrounds which is what the excluded color values part is for. Unfortunately, there were a couple of icons that I had to fix due to this, but overall much better than converting over a hundred of them by hand in photoshop.
